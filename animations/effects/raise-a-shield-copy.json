@@ -8,7 +8,7 @@
 			},
 			"contents": [
 				{
-					"predicate": [{ "lte": ["graphics-quality", 2] }],
+					"predicate": [{ "lte": ["graphics-quality, 2] }],
 					"trigger": ["startTurn", "effect"]
 				},
 				{
